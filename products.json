@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "A4 charcoal portrait",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/flip.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Watercolor portrait",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/ferstdiv.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/kunst3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/l.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/mä2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/kunst2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/straß.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/der.jpg" } } }
+      }
+    }
+  ]
+}
